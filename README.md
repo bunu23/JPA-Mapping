@@ -1,1 +1,2 @@
 # JPA-Mapping
+This repository contains a collection of code examples focused on JPA querying techniques and Spring Boot applications, covering various aspects such as fetching strategies, DTO usage, and entity relationship mappings (including many-to-one and one-to-many relationships). Each example provides practical implementations and best practices for leveraging JPA within Spring Boot applications.
